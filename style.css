@@ -14,7 +14,7 @@
 }
 
 #logo {
-    width: 160px;
+    width: 100px;
     height: 100px;
 }
 
@@ -57,6 +57,11 @@ nav ul li a:hover{
 span {
     color: lightskyblue;
 }
+#span2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: crimson;
+}
 
 .middle a {
     background: crimson;
@@ -75,22 +80,33 @@ p {
  color: lightskyblue;
 }
 
-.images {
-    width: 35%;
-    height: 80%;
+.middle2 {
+    margin-left: 8%;
+    margin-top: 3%;
     position: absolute;
     top: 100px;
     bottom: 0;
     right: 100px;
 }
 
-.images:hover {
-    left: 62%;
+h1 {
+    font-size: 50px;
+    color: crimson;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
 
+#AboutMeImages {
+    width: 35%;
+    height: 80%;
+    position: absolute;
+    top: 150px;
+    bottom: 0;
+    right: 25px; 
 }
 
 #links {
-   padding: 40px;
+   padding: 30px;
    font-family: sans-serif;
    font-weight: bolder;
    font-size: large;
@@ -103,32 +119,29 @@ h2 {
     font-size: large;
     font-family: sans-serif;
 }
-#skills img {
-    display: block;
-    margin-left: 80px;
-    margin-bottom: 20px;
-}
-.middletech h1 {
-    font-size: 50px;
-    color: crimson;
-    margin-left: 50px;
-    margin-bottom: 20px;
-}
-.middletech p {
-    margin-left: 50px;
-    margin-bottom: 15px;
-    font-weight: bolder;
-    font-size: large;
-    font-family: sans-serif;
-}
-.imagestech {
-    width: 35%;
-    height: 80%;
+#skills {
+    margin-left: 8%;
+    margin-top: 3%;
     position: absolute;
-    top: 100px;
+    top: 250px;
     bottom: 0;
-    right: 100px;
+    right: 200px;
 }
-.imagestech:hover {
-    left: 45%;
+
+.middle3 {
+    margin-left: 8%;
+    margin-top: 3%;
+    position: absolute;
+    top: 350px;
+    bottom: 0;
+    right: 200px;
+}
+
+#skills2 {
+    margin-left: 8%;
+    margin-top: 3%;
+    position: absolute;
+    top: 490px;
+    bottom: 0;
+    right: 300px; 
 }

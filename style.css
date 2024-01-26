@@ -104,6 +104,10 @@ h1 {
     top: 150px;
     bottom: 0;
     right: 25px; 
+    border-radius: 10%;
+}
+#AboutMeImages img{
+    border-radius: 10%;
 }
 
 #links {
@@ -132,6 +136,7 @@ h2 {
 
 #skills img{
     margin-right: 30px;
+    border-radius: 10%;
 }
 
 .middle3 {
@@ -153,5 +158,5 @@ h2 {
 }
 #skills2 img{
     margin-right: 30px;
+    border-radius: 10%;
 }
-

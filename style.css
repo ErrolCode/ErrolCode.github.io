@@ -35,7 +35,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: crimson;
+    color: #DB3F14;
     font-weight: bold;
 }
 
@@ -50,7 +50,7 @@ nav ul li a:hover{
 
 .middle h1 {
     font-size: 50px;
-    color: crimson;
+    color: #DB3F14;
     margin-bottom: 20px;
 }
 
@@ -60,11 +60,11 @@ span {
 #span2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bolder;
-    color: crimson;
+    color: #DB3F14;
 }
 
 .middle a {
-    background: crimson;
+    background: #DB3F14;
     padding: 10px 18px;
     text-decoration: none;
     font-weight: bold;
@@ -92,7 +92,7 @@ p {
 
 h1 {
     font-size: 50px;
-    color: crimson;
+    color: #DB3F14;
     margin-left: 50px;
     margin-bottom: 20px;
 }
